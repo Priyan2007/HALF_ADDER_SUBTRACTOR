@@ -1,4 +1,5 @@
 **NAME:PRIYAN**
+
 **REG NO:24000051**
 
 # HALF_ADDER_SUBTRACTOR
@@ -37,6 +38,8 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+
+
 <img width="479" alt="Screenshot 2024-12-12 at 10 22 46 AM" src="https://github.com/user-attachments/assets/63056ad6-3f83-4c29-9354-d86353164740" />
 
 
@@ -54,6 +57,8 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
+
+
 <img width="490" alt="Screenshot 2024-12-12 at 10 24 26 AM" src="https://github.com/user-attachments/assets/4f235ffe-4391-469e-b710-ba564b66354c" />
 
 
