@@ -1,8 +1,8 @@
-**NAME:PRIYAN**
+### NAME:PRIYAN
 
-**REG NO:24000051**
+### REG NO:24000051
 
-# HALF_ADDER_SUBTRACTOR
+### EXP NO 3: HALF ADDER SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
