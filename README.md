@@ -2,9 +2,8 @@
 
 ### REG NO:24000051
 
-### EXP NO 3: HALF ADDER SUBTRACTOR
+### EXP NO 3: IMPLEMENTATION OF HALF ADDER AND HALF SUBTRACTOR
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 **AIM:**
 
